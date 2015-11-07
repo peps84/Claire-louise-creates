@@ -11,3 +11,16 @@
  
 /* =Theme customization starts here
 ------------------------------------------------------- */
+#page{
+	margin-top: 30px;
+	border:2px #b2d1cb solid;
+	background-color: white;
+}
+
+.top-background{
+	border-top:none;
+}
+
+.site-box{
+	border:none;
+}
