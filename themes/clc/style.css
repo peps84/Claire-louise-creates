@@ -17,6 +17,10 @@
 	background-color: white;
 }
 
+.home .listing-item{
+	float:left;
+}
+
 .top-background{
 	border-top:none;
 }
