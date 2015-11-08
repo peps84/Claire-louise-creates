@@ -16,6 +16,7 @@ get_header(); ?>
 
 
 			<?php endwhile; // end of the loop. ?>
+			<div id="sections"><a href="<?php echo get_page_link( get_page_by_title( Planning )->ID ); ?>">Planning</a</div>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->

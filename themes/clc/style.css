@@ -17,6 +17,10 @@
 	background-color: white;
 }
 
+.site-boundary{
+	margin: 30px auto;
+}
+
 .home .listing-item{
 	float:left;
 }
@@ -27,4 +31,9 @@
 
 .site-box{
 	border:none;
+}
+
+.site-padding,.site-header,.site-content,.footer-widget-area,.site-info{
+	padding-left: none;
+	padding-right: none;
 }
